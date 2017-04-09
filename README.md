@@ -1,2 +1,2 @@
-# TripPlanner
-An app for travelers to save a list of things to do or places to visit. The app also allows users to write notes for saved places.
+# CricInfo-MongoScrapper
+An app to check cricket news. The app allows users to save articles and notes.
